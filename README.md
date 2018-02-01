@@ -62,7 +62,7 @@ token:      eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3Mi...
 
 http://localhost:8001/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/
 
-## 9. Enter the token under the second option and SIGN IN
+## 10. Enter the token under the second option and SIGN IN
 
 ![](https://i.stack.imgur.com/5dy2F.png)
 
